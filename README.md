@@ -1,3 +1,7 @@
 zubeyrozeren/README.md
 
-Currently studying at Başkent University and trying to learn more about Deep Learning in Medicine.
+Research assistant at Ankara University, currently doing my MSc at Başkent University. 
+
+I work on deep learning, signal and image processing, mostly applied to medical tasks.
+
+Currently building an object detection pipeline for diabetic retinopathy lesions.
